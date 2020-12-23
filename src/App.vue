@@ -10,6 +10,7 @@ export default {
 
 <style lang="scss">
 @use "~@/styles/variables.scss" as vars;
+// // @import is ok but i want to use @use
 // @import "~@/styles/variables.scss";
 
 #app {
